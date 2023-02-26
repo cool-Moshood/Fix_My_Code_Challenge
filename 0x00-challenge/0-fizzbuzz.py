@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ FizzBuzz
     change of logic if (i % 3) == 0 and (i % 5) == 0:
 """
